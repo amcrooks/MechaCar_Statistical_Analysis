@@ -7,3 +7,6 @@ Review production data for manufacturing team
 - Our p-valuue is less that 0.05% causing us to reject our null hypothesis due to the slope of our linear model is not zero.
 5. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 - Yes, this linear model predict mpg of MechaCar prototypes effectively due to the R-squared value equaling 0.712. Which means 71% of the variablty of our dependent variable is explained in the linear model.
+## Summary Statistics on Suspension Coils
+1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+- 
